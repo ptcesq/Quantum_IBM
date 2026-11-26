@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "skills": {
+    "managed-workflows-quickstart": {
+      "source": "Qiskit/skills",
+      "commit": "d031f752a3a088d66b9fdc2a0756814afb1054ea",
+      "sourceType": "github",
+      "skillPath": "skills/managed-workflows-quickstart/SKILL.md",
+      "computedHash": "7d0ac9a249c283f31fb1e7dbd8aef3270fc44a099dda933907aec707ea3df578"
+    },
+    "migrate-qiskit-ibm-runtime": {
+      "source": "Qiskit/skills",
+      "commit": "d031f752a3a088d66b9fdc2a0756814afb1054ea",
+      "sourceType": "github",
+      "skillPath": "skills/migrate-qiskit-ibm-runtime/SKILL.md",
+      "computedHash": "241587d15160280667cf3145a4b821da063dabe1bfc3ed37cab3ca93482a182e"
+    },
+    "select-error-mitigation": {
+      "source": "Qiskit/skills",
+      "commit": "d031f752a3a088d66b9fdc2a0756814afb1054ea",
+      "sourceType": "github",
+      "skillPath": "skills/select-error-mitigation/SKILL.md",
+      "computedHash": "fbc94c66607474d9e2c1ec021b1660cf727e94c185285053a8d4cd6cb6964200"
+    },
+    "select-sqd-eigensolver": {
+      "source": "Qiskit/skills",
+      "commit": "d031f752a3a088d66b9fdc2a0756814afb1054ea",
+      "sourceType": "github",
+      "skillPath": "skills/select-sqd-eigensolver/SKILL.md",
+      "computedHash": "0a2548b0034b664f19cfc19f3b44f80181125a191b12e03e755e653ee4175e18"
+    },
+    "simulate-fermionic-systems": {
+      "source": "Qiskit/skills",
+      "commit": "d031f752a3a088d66b9fdc2a0756814afb1054ea",
+      "sourceType": "github",
+      "skillPath": "skills/simulate-fermionic-systems/SKILL.md",
+      "computedHash": "ffdd0eed73bc2c6159a70897fad8d6093512db14473eb18babb41d27db63e4d6"
+    }
+  }
+}
